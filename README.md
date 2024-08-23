@@ -1,6 +1,11 @@
 # InDesign a keyboard shortcut set and tempplate for pretty printing keyboard shortcut sets 
 A set of shortcuts plus a remplate for pretty printing the entire list which InDesign exports as txt.
 
+Preview:
+
+<img width="433" alt="Screenshot 2024-08-23 at 4 30 38 pm" src="https://github.com/user-attachments/assets/88fe06ac-73bb-4611-b9f4-c3924119fea0">
+
+
 ## Steps to pretty print your own set
 1.  Export the set from InDsign Keyboard Shortcuts window… click on "Show set…" button
 
