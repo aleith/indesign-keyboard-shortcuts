@@ -19,9 +19,9 @@ Preview:
 
 5.  Open InDesign's **Find and Replace** window, goto the second tab, **GREP**.
 
-6.  Enter **^\t.$** **in the 'find what' field
+6.  Enter **^\t.$** **in the 'find what' field   <- this finds all the lines begining in tabs using GREP codes
 
-7.  Enter "0. Body" Paragraph style in the **Change format** field.
+7.  Enter "**0. Body**" Paragraph style in the **Change format** field.
 
 8.  Click "**Replace all**" button to change the style of all lines starting in a tab
 
